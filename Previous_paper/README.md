@@ -1,5 +1,6 @@
 # Multiverse: Mobility pattern understanding improves localization accuracy
 
+- site : https://scholarworks.unist.ac.kr/handle/201301/25987
 - Author : Beknazar Abdikamalov
 - Issue Date : 2019-02
 - Publisher : Graduate School of UNIST
