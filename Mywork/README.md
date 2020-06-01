@@ -5,11 +5,11 @@
 - 기존연구는 사람이 한자리에 가만히 있는것에 대한 한계점이 있었다.
 - 사람들이 건물안에서 누군가와 이야기를 하거나 휴대폰을 사용하기위해 멈추거나 하는 등의 행동패턴이 존재하기때문에 기능을 추가하게 되었다.
 
-- 참고한 논문설명
+- 참고한 논문설명 <https://github.com/Sunny8747/WIFI_Indoor_localization/tree/master/Previous_paper>
 
-- My Code
+- My Code <https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/Mywork/Multiverse_with_0speed/matrix_graph_build.py>
 
-- Report
+- Report <https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/Mywork/Multiverse_with_0speed/Multiverse_with_0speed.pdf>
 
 <hr/>
 
