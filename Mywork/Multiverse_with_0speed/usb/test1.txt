@@ -1,0 +1,6 @@
+non working just connect with wifi
+if not connected with wifi then no data
+phone need to connect with wifi
+time synchro is perfect
+start time 2019 8 16 02:40
+end time 03:38

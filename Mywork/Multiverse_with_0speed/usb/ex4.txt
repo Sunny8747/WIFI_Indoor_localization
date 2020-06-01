@@ -1,0 +1,4 @@
+fingerprinting
+pathex1
+
+check app run on background and rong time keep running

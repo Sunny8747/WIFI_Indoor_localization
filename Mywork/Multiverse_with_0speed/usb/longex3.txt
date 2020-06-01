@@ -1,0 +1,6 @@
+scan signal
+eng 2f coffe table
+2019-8-15 am05:26:01 start (first last tap)
+2019-8-15 am05:23:26 middle check1
+2019-8-15 am05:36:11 middle check2 off wifi and turn on again with few seconds
+2019-8-15 am05:37:16 last tap

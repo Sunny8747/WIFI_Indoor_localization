@@ -1,0 +1,8 @@
+RTLS data feed
+associated unassocitated는 직접적으로 연결됬냐 안됬냐의 차이인가?
+
+online offline 명확한 차이가뭐냐?
+RADAR에 있음 [36]
+RADAR에 signal strength로 거리계산법 있음
+
+

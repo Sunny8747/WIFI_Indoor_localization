@@ -1,0 +1,3 @@
+wifi shut down
+05m10s -> nodata feed out
+until same data out

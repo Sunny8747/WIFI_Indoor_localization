@@ -1,0 +1,5 @@
+https://10.0.72.5/data/rfdashboard/clientview_details.html?deviceMacAddress=B4:F7:A1:8D:1D:3C
+this makes well in unist 2F round table
+Ca
+
+but error is occur how can this is fix?

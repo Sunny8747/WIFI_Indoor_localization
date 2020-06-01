@@ -1,0 +1,76 @@
+Widar
+DFS = easiest to accurately
+AoA = limited by antenna number
+ToF = limited by frequency bandwith
+
+IndoTrack17 이랑 비교할만하고
+DynamicMusic 보다 정확함
+
+1AP, 3antena receiver(AoA)때문
+모션트렉킹 -> 들고움직이는게 아닌 아무물체나 움직이는걸 찾는거
+
+[10]에서 wifi 카드가 뭘 주는지 나오는가? 데이터값
+
+10번식 첫더하기는 스테틱시그널은 콘스턴트이므로 하이패스 필터로 제거하고 마지막더하기는 약하므로 무시가능
+
+11번식 가운데 무시가능 모든거에 다 적용이라 차이 알아내는데는 영향x
+
+[17]처럼 러프하게 콘스턴트벨류 두개사용한다
+[22] conjugate multiplication of CSI 소개된곳
+[17]에서 사용됨 but DFS만
+
+cluttering 얽혀있는
+WiDeo[11] 에서는 [15]의 헝가리안 알고리즘 이용
+이거는 노이즈가 많은 기성품 에서는 사용하기 어려움 너무 출렁임이 심함
+따라서 graph=based path matching 알고리즘을 이용
+multipartite graph 참조
+
+엣지에 weight를 주는데 거리로 준다
+
+argmin x 는 뒤에있는식이 최소값이 되게 만드는 x의 값
+
+조건문 15~18은 eq13의 objective fuction 
+
+결과물에 Hampel filter적용 이상작용있는 신호 처리
+upper filter lower filter 둘다적용
+
+[21] DFS change rate of path
+
+Kalman Smoother from DFS estimations
+
+일반노트북 인텔 5300NIC이용 -> 나도 가능한가
+
+IndoTrack은 DFS AoA
+Dymusic AoA only, LoS line 에서 큰error
+
+IndoTrack low error 점유율은 높지만 후반양상이 좋지못함
+parameter 에따라 변화량을보면 distance 따라 Widar 는 출렁임이 거의없지만
+Indo는 점점 커진다 5m~10m 사이까지는 indo가 적다 그뒤로는 widar의 승리
+
+large velocity leads to large DFS
+
+환경 넓이에따라서도 다름
+
+trasmitter receiver distance (link length)
+거리 길어지면 DFS 감소 따라서 degrade됨
+
+사람 다양성에따른 변화X
+
+packet rate 따라 다름 hz 줄어들수록 오류감소
+
+최소 hz는 200hz
+
+속도로인한 도플러효과의 범위는 5m/s일때 100hz정도 그러면 플러스마이너스 이므로 200hz 가 필요함 따라서 최소값이 200hz인것
+
+250hz에서 0.7초의 프로세싱타임을 가짐
+
+멀티퍼슨실패
+안테나의 부족 limiting the resolution and separating two reflect point
+NLoS 불가
+
+
+
+
+
+
+
