@@ -14,5 +14,9 @@
 
 ### Result
 
-- 수치값들
-- 만들어둔 이미지 삽입
+- The achieved mean accuracy [~ 1.6m]
+- The achieved 90% accuracy [~ 6.8m]
+- Previous one’s mean accuracy [~ 1.6m]
+- Previous one’s 90% accuracy [~ 9.2m]
+
+- ![result cdf graph](https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF)
