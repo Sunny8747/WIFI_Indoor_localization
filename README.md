@@ -19,4 +19,10 @@
 - Previous one’s mean accuracy [~ 1.6m]
 - Previous one’s 90% accuracy [~ 9.2m]
 
+<img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/image%20processing.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="image processing"></img>
+
+<img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/application%20image.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
+
+<img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_of_path.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="result of path finding program"></img>
+
 - ![result cdf graph](https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF)
