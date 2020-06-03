@@ -19,6 +19,7 @@
 - Previous one’s mean accuracy [~ 1.6m]
 - Previous one’s 90% accuracy [~ 9.2m]
 <hr>
+
 - Image Processing
 - <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/image%20processing.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="image processing"></img>
 <hr>
