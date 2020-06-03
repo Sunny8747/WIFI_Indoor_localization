@@ -16,6 +16,9 @@
 ## Code description
 
 ```python
+  import networkx
+  import matplotlib
+
   #processing black white image to node grid for graph building
   def Image_processing():
 
