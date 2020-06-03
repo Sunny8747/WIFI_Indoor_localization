@@ -19,10 +19,16 @@
 - Previous one’s mean accuracy [~ 1.6m]
 - Previous one’s 90% accuracy [~ 9.2m]
 
-<img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/image%20processing.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="image processing"></img>
+- Image Processing
+  <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/image%20processing.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="image processing"></img>
 
-<img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/application%20image.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
+* 시간과 위치데이터를 찍기위한 실험용 어플리케이션
+  <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/application%20image.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
+
+* 실험결과 경로추정
 
 <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_of_path.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="result of path finding program"></img>
 
-- ![result cdf graph](https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF)
+- 실험결과의 CDF그래프
+
+![result cdf graph](https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF)
