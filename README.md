@@ -41,5 +41,6 @@
 
 - 실험결과의 CDF그래프
 
-- ![result cdf graph](https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF)
+- <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF" width="70%" height="60%" title="Result CDF" alt="result of path finding program"></img>
+
 <hr>
