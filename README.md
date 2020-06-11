@@ -31,7 +31,7 @@
 
 * Cisco WiFi server raw data
 
-- <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/row%20data.png" width="50%" title="Cisco raw data" alt="app_result_image"></img>
+- <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/row%20data.png" width="80%" title="Cisco raw data" alt="app_result_image"></img>
 
 * Fingerprint
 
