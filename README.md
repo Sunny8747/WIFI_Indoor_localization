@@ -29,6 +29,10 @@
 - <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/application%20image.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
 <hr>
 
+* Cisco WiFi server raw data
+
+* Fingerprint
+
 * 샘플 경로 데이터 분석중 생성되는 패스 개수 추적
 
 - <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/sample.GIF" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
